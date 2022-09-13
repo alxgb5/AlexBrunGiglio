@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbrungiglio&label=Profile%20views&color=0e75b6&style=flat" alt="alexbrungiglio" /> </p>
 
-- 🔭 I’m currently working on [a template starter](https://github.com/AlexBrunGiglio/taiga)
+- 🔭 I’m currently working on [a react ui lib starter](https://github.com/AlexBrunGiglio/ark-ui)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://alexandrebrungiglio.fr](https://alexandrebrungiglio.fr)
 
-- 📝 I regularly write articles on [https://insiiight.fr](https://insiiight.fr)
+- 📝 I regularly write articles on [https://blog.alexandrebrungiglio.fr](https://blog.alexandrebrungiglio.fr)
 
-- 💬 Ask me about **Angular, Nestjs**
+- 💬 Ask me about **Angular, Nestjs, React**
 
 - 📫 How to reach me **contact@alexandrebrungiglio.fr**
 
